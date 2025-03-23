@@ -46,13 +46,6 @@ Here are some examples of the theme!
 
 </details>
 
-<details>
-<summary>C++</summary>
-
-![C++](imgs/cpp.png)
-
-</details>
-
 ---
 
 #### Errors:
