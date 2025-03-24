@@ -1,6 +1,6 @@
 # CHZ-STaKes Theme! - Its purple!
 
-The Name Of The Theme/extension should be `Dancin Wit A Purple CHZ-_-STaKe`
+The Name Of The Theme/extension should be `Dancin Wit A Purple CHZ-ST-aKe` ( [CHZ-_-STaKe/CHZ-_-ST-aKe] if underscores are allowed)
 
 ### Theme Theme Theme
 This is a theme I created using [`Zed Themes`](https://www.zed-themes.com). It is inspired from Nu-Disco by Károly Török, also from zed themes, this is much more purple however!
